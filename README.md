@@ -1,6 +1,6 @@
 Este software foi criado para fazer a leitura de ibuttons a partir de um rastreador FMB125, e converter para outros dois tipos de rastreadores Suntech ST350UR e VT200 2G/4G
 Criado com c# e Windows form, este rastreador funciona de uma forma simples, ele é totalmente desenvolvido para implementar motoristas de forma automatica 
-na plataforma de rastreamento inviocar.rastreamneot.com usando a api desiponibilizada.
+na plataforma de rastreamento inviocar.rastreamneot.com usando a api disponibilizada.
 
 Recursos Incluem:
 - Leitra de Ibuttons
