@@ -1,0 +1,10 @@
+C:\Users\elian\source\repos\LeitorIButtonLib\LeitorIButtonLib\bin\Release\LeitorIButtonLib.exe.config
+C:\Users\elian\source\repos\LeitorIButtonLib\LeitorIButtonLib\bin\Release\LeitorIButtonLib.exe
+C:\Users\elian\source\repos\LeitorIButtonLib\LeitorIButtonLib\bin\Release\LeitorIButtonLib.pdb
+C:\Users\elian\source\repos\LeitorIButtonLib\LeitorIButtonLib\obj\Release\LeitorIButtonLib.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\LeitorIButtonLib\LeitorIButtonLib\obj\Release\LeitorIButtonLib.Form1.resources
+C:\Users\elian\source\repos\LeitorIButtonLib\LeitorIButtonLib\obj\Release\LeitorIButtonLib.Properties.Resources.resources
+C:\Users\elian\source\repos\LeitorIButtonLib\LeitorIButtonLib\obj\Release\LeitorIButtonLib.csproj.GenerateResource.cache
+C:\Users\elian\source\repos\LeitorIButtonLib\LeitorIButtonLib\obj\Release\LeitorIButtonLib.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\LeitorIButtonLib\LeitorIButtonLib\obj\Release\LeitorIButtonLib.exe
+C:\Users\elian\source\repos\LeitorIButtonLib\LeitorIButtonLib\obj\Release\LeitorIButtonLib.pdb

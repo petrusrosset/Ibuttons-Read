@@ -1,0 +1,14 @@
+C:\Users\elian\source\repos\LeitorIButtonLib\LeitorIButtonLib\bin\Debug\LeitorIButtonLib.exe.config
+C:\Users\elian\source\repos\LeitorIButtonLib\LeitorIButtonLib\bin\Debug\LeitorIButtonLib.exe
+C:\Users\elian\source\repos\LeitorIButtonLib\LeitorIButtonLib\bin\Debug\LeitorIButtonLib.pdb
+C:\Users\elian\source\repos\LeitorIButtonLib\LeitorIButtonLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\elian\source\repos\LeitorIButtonLib\LeitorIButtonLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\elian\source\repos\LeitorIButtonLib\LeitorIButtonLib\obj\Debug\LeitorIButtonLib.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\LeitorIButtonLib\LeitorIButtonLib\obj\Debug\LeitorIButtonLib.Form1.resources
+C:\Users\elian\source\repos\LeitorIButtonLib\LeitorIButtonLib\obj\Debug\LeitorIButtonLib.Properties.Resources.resources
+C:\Users\elian\source\repos\LeitorIButtonLib\LeitorIButtonLib\obj\Debug\LeitorIButtonLib.Suntech.resources
+C:\Users\elian\source\repos\LeitorIButtonLib\LeitorIButtonLib\obj\Debug\LeitorIButtonLib.csproj.GenerateResource.cache
+C:\Users\elian\source\repos\LeitorIButtonLib\LeitorIButtonLib\obj\Debug\LeitorIButtonLib.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\LeitorIButtonLib\LeitorIButtonLib\obj\Debug\LeitorIButtonLib.csproj.CopyComplete
+C:\Users\elian\source\repos\LeitorIButtonLib\LeitorIButtonLib\obj\Debug\LeitorIButtonLib.exe
+C:\Users\elian\source\repos\LeitorIButtonLib\LeitorIButtonLib\obj\Debug\LeitorIButtonLib.pdb
